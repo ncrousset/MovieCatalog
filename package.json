@@ -1,0 +1,19 @@
+{
+  "name": "movie-catalog",
+  "version": "1.0.0",
+  "description": "Mi catalogo de peliculas y series en redux",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ncrousset/MovieCatalog.git"
+  },
+  "author": "Rudys Natanael Acosta Crousset",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ncrousset/MovieCatalog/issues"
+  },
+  "homepage": "https://github.com/ncrousset/MovieCatalog#readme"
+}
