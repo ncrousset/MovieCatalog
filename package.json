@@ -15,5 +15,20 @@
   "bugs": {
     "url": "https://github.com/ncrousset/MovieCatalog/issues"
   },
-  "homepage": "https://github.com/ncrousset/MovieCatalog#readme"
+  "homepage": "https://github.com/ncrousset/MovieCatalog#readme",
+  "dependencies": {
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1",
+    "react-redux": "^5.0.5",
+    "redux": "^3.7.2"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.24.1",
+    "babel-loader": "^7.1.1",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "babel-preset-stage-2": "^6.24.1",
+    "redux-devtools": "^3.4.0",
+    "webpack": "^3.3.0"
+  }
 }
